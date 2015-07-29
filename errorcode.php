@@ -5,9 +5,7 @@
  */
 
 $uri = urldecode(
-    'abcde
+    'abcde'
 );
-
-
 
 return $aaa;
